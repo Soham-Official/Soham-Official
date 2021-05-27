@@ -1,15 +1,22 @@
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
+![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
+
+Hi there, thanks for stopping by, this is **Charles Zhang**.
+
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 
-<p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
-</em></p>
 
+![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=iCharlesZ&hide=contribs,prs&count_private=true&show_icons=true)
 
+<a href="https://github.com/iCharlesZ">
+  <img src="https://img.shields.io/github/followers/iCharlesZ">
+</a>
+<a href="https://github.com/iCharlesZ">
+   <img src="https://komarev.com/ghpvc/?username=iCharlesZ">
+</a>
 
-</br></br>
-<h2>💻 Some stats 💻</h2>
-
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 
 ---
 
+⭐️ From [@iCharlesZ](https://github.com/iCharlesZ)
