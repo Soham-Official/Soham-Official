@@ -9,7 +9,7 @@
 - 🎓 &nbsp; Studying CSE at Netaji Subhash Engineering College.<br/>
 - 💼 &nbsp; working as a freelancing web developer.<br/>
 - 🌱 &nbsp; Passionate about learing Data structure & algorithms.<br/>
-- ✍️ &nbsp; Guitarist by Passion.<br/>
+- ✍️ &nbsp; Guitarist by Passion.<br/><br/>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Soham-official/count.svg" />
