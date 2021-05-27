@@ -34,7 +34,7 @@
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-<h2 align="">:bar_chart: Github stats </h2>
+<h2 align="">:bar_chart: &nbsp; Github stats </h2>
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/Soham-Official/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
