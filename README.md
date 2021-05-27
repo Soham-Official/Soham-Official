@@ -10,7 +10,7 @@
 - 💼 &nbsp; Working as a freelancing web developer.<br/>
 - 🌱 &nbsp; Passionate about learing Data structure & algorithms.<br/>
 - 👯 &nbsp; I’m looking for a software development internship. <br/>
-- ✍️ &nbsp; Guitarist by Passion.<br/><br/>
+- ✍️ &nbsp; Guitarist by Passion.<br/><br/><br/>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Soham-Official/count.svg" />
