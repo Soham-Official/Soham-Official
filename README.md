@@ -4,13 +4,13 @@
 
 <p><em>Software Engineering Undergrad at <a href="http://www.nsec.ac.in">Netaji Subhash Engineering College.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+<h2 >👨🏻‍💻 &nbsp; About me</h2>
+- 🤔 &nbsp; Exploring new technologies and developing myself .<br/>
+- 🎓 &nbsp; Studying CSE at Netaji Subhash Engineering College.<br/>
+- 💼 &nbsp; working as a freelancing web developer.<br/>
+- 🌱 &nbsp; Passionate about learing Data structure & algorithms.<br/>
+- ✍️ &nbsp; Guitarist by Passion.<br/>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Soham-official/count.svg" />
 </p>
-<h2 >👨🏻‍💻 &nbsp; About me</h2>
-- 🤔 &nbsp; Exploring new technologies and developing myself .<br/>
-- 🎓 &nbsp; Studying Computer Science and Engineering at Netaji Subhash Engineering College.<br/>
-- 💼 &nbsp; working as a freelancing web developer.<br/>
-- 🌱 &nbsp; Passionate about learing Data structure & algorithms.<br/>
-- ✍️ &nbsp; Guitarist by Passion.<br/>
