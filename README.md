@@ -46,14 +46,5 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Soham-Official&show_icons=true&theme=synthwave" alt=" :: Profile Stats" /></p>
 
-**I'm an early 🐤** 
-
-```text
-🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
-🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
-
-```
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
