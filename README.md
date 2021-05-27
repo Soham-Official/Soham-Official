@@ -11,12 +11,7 @@
 - 🌱 &nbsp; Passionate about learing Data structure & algorithms.<br/>
 - 👯 &nbsp; I’m looking for a software development internship. <br/>
 - ✍️ &nbsp; Guitarist by Passion.<br/><br/><br/>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Soham-Official/count.svg" />
-</p>
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -39,10 +34,8 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 <h2 align="center">Github stats :bar_chart:</h2>
-
 <h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/Soham-Official/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
