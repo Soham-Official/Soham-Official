@@ -11,6 +11,6 @@
 - 🌱 &nbsp; Passionate about learing Data structure & algorithms.<br/>
 - ✍️ &nbsp; Guitarist by Passion.<br/><br/>
 <p align="center"> 
-  Visitor count<br>
+  Visitor count<br><br/>
   <img src="https://profile-counter.glitch.me/Soham-official/count.svg" />
 </p>
