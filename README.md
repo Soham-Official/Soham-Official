@@ -44,8 +44,6 @@
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center">[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=naveenverma1&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/naveenverma1)</p>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Soham-Official&show_icons=true&theme=synthwave" alt=" :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
