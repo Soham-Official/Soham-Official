@@ -52,7 +52,7 @@
 
 [![](https://img.shields.io/badge/HackerRank-dYnAmIcDuDe-brightgreen)](https://www.hackerrank.com/dYnAmIcDuDe)
 [![](https://img.shields.io/badge/Codechef-dynamic_dude-white)](https://www.codechef.com/users/dynamic_dude)
-[![](https://img.shields.io/badge/Geeks for geeks-dynamicdude-green)](https://auth.geeksforgeeks.org/user/dynamicdude/profile)
+[![](https://img.shields.io/badge/GeeksForGeeks-dynamicdude-green)](https://auth.geeksforgeeks.org/user/dynamicdude/profile)
 [![](https://img.shields.io/badge/Leetcode-dynamic_dude-red)](https://leetcode.com/dynamic_dude/)
 [![](https://img.shields.io/badge/Codeforces-dynamic_dude-yellow)](https://codeforces.com/profile/dynamic_dude)
 
