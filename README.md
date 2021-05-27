@@ -44,7 +44,7 @@
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=naveenverma1&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/naveenverma1)
+<p align="center">[![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=naveenverma1&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/naveenverma1)</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Soham-Official&show_icons=true&theme=synthwave" alt=" :: Profile Stats" /></p>
 
