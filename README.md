@@ -8,4 +8,4 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Soham-official/count.svg" />
 </p>
-<h2 align="center">👨🏻‍💻 &nbsp; About me</h2>
+<h2 >👨🏻‍💻 &nbsp; About me</h2>
