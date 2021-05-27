@@ -7,9 +7,9 @@
 <h2 >👨🏻‍💻 &nbsp; About me</h2>
 - 🤔 &nbsp; Exploring new technologies and developing myself .<br/>
 - 🎓 &nbsp; Studying CSE at Netaji Subhash Engineering College.<br/>
-- 💼 &nbsp; working as a freelancing web developer.<br/>
+- 💼 &nbsp; Working as a freelancing web developer.<br/>
 - 🌱 &nbsp; Passionate about learing Data structure & algorithms.<br/>
-- 👯 I’m looking for a software development internship. <br/>
+- 👯 &nbsp; I’m looking for a software development internship. <br/>
 - ✍️ &nbsp; Guitarist by Passion.<br/><br/>
 <p align="center"> 
   Visitor count<br>
