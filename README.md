@@ -4,7 +4,7 @@
 
 <p><em>Software Engineering Undergrad at <a href="http://www.nsec.ac.in">Netaji Subhash Engineering College.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome">
+<a href="https://soham-official.github.io/myportfolio/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome">
 <h2 >👨🏻‍💻 &nbsp; About me</h2>
 - 🤔 &nbsp; Exploring new technologies and developing myself .<br/>
 - 🎓 &nbsp; Studying CSE at Netaji Subhash Engineering College.<br/>
