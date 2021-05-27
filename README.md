@@ -9,9 +9,8 @@
   <img src="https://profile-counter.glitch.me/Soham-official/count.svg" />
 </p>
 <h2 >👨🏻‍💻 &nbsp; About me</h2>
-<br/>
-- 🤔 &nbsp; Exploring new technologies and developing myself .
-- 🎓 &nbsp; Studying Computer Science and Engineering at Netaji Subhash Engineering College.
-- 💼 &nbsp; working as a freelancing web developer.
-- 🌱 &nbsp; Passionate about learing Data structure & algorithms.
-- ✍️ &nbsp; Guitarist by Passion.
+- 🤔 &nbsp; Exploring new technologies and developing myself .<br/>
+- 🎓 &nbsp; Studying Computer Science and Engineering at Netaji Subhash Engineering College.<br/>
+- 💼 &nbsp; working as a freelancing web developer.<br/>
+- 🌱 &nbsp; Passionate about learing Data structure & algorithms.<br/>
+- ✍️ &nbsp; Guitarist by Passion.<br/>
