@@ -50,10 +50,11 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <h3> 💻 &nbsp;Coding Handles </h3>
 
-[![](https://img.shields.io/badge/Codechef-ayushkumar25-grey)](https://www.linkedin.com/in/ayushkumar25/)
+[![](https://img.shields.io/badge/HackerRank-ayushkumar__25-brightgreen)](https://www.hackerrank.com/dYnAmIcDuDe)
+[![](https://img.shields.io/badge/Codechef-ayushkumar25-lightgrey)](https://www.linkedin.com/in/ayushkumar25/)
 [![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red)](mailto:ayush2608@gmail.com)
 [![](https://img.shields.io/badge/Telegram-%40ayushkumar__25-blue)](https://t.me/ayushkumar_25)
-[![](https://img.shields.io/badge/HackerRank-ayushkumar__25-brightgreen)](https://www.hackerrank.com/ayushkumar_25)
+
 
 <h3> 🤝🏻 Connect with Me </h3>
   
