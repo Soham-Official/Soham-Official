@@ -4,6 +4,7 @@
 
 <p><em>Software Engineering Undergrad at <a href="http://www.nsec.ac.in">Netaji Subhash Engineering College.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome">
 <h2 >👨🏻‍💻 &nbsp; About me</h2>
 - 🤔 &nbsp; Exploring new technologies and developing myself .<br/>
 - 🎓 &nbsp; Studying CSE at Netaji Subhash Engineering College.<br/>
@@ -55,7 +56,6 @@
 [![](https://img.shields.io/badge/HackerRank-ayushkumar__25-brightgreen)](https://www.hackerrank.com/ayushkumar_25)
 
 <h3> 🤝🏻 Connect with Me </h3>
-<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome">
 <a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://space.bilibili.com/7708412)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:contato.weltonf@gmail.com)
