@@ -46,7 +46,7 @@
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Soham-Official&show_icons=true&theme=synthwave" alt=" :: Profile Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Soham-Official&theme=highcontrast" alt="Soham-Official" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Soham-Official&theme=highcontrast" alt="Soham-Official" /></p>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <h3> 💻 &nbsp;Coding Handles </h3>
 
